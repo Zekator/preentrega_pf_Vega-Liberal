@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Usuario\Documents\EntregaIntermediaPF\venv"
+VIRTUAL_ENV="D:\Users\Agustin\Desktop\coderhouse\EntregaIntermediaPF\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
